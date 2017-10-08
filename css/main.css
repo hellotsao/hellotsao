@@ -602,7 +602,7 @@ video {
   text-decoration: underline;
 }
 .main {
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 30px;
 }
 .archive-title {
@@ -666,7 +666,7 @@ video {
   border-color: transparent;
 }
 .excerpt {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .reward {
   border: 1px solid #f0f0f0;
@@ -697,7 +697,7 @@ video {
 }
 .post {
   overflow: hidden;
-  margin-top: 30px;
+  margin-top: 15px;
   border: 1px solid #f0f0f0;
   background-color: #fff;
 }
@@ -708,15 +708,15 @@ video {
   margin: 30px 50px;
 }
 .post__time {
-  color: #ccc;
-  font-size: 12px;
-  font-size: 0.75rem;
+  color: #399c9c;
+  font-size: 16px;
+  font-size: 1rem;
 }
 .post__title {
-  margin-top: 5px;
+  margin-top: 0px;
   line-height: 1.5;
-  font-size: 24px;
-  font-size: 1.5rem;
+  font-size: 0px;
+  font-size: 0rem;
   font-weight: normal;
 }
 .post__title > a {
